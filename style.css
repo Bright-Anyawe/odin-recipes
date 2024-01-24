@@ -1,3 +1,26 @@
+* {
+    background-image:url(recipes/recipe.png) ;
+}
+
 .align {
     text-align: center;
+    font-size: 40px;
+    font-weight: 1000;
+}
+#font {
+    font-size: 30px;
+}
+
+.only-one{
+    font-size:30px ;
+    font-weight: 900;
+}
+.only-re {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+
+.only {
+    font-size:30px ;
 }
